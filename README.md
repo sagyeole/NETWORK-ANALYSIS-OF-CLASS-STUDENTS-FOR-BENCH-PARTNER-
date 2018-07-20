@@ -28,7 +28,8 @@ Project analysis on dataset of class students to select a bench partner using R.
 -Find transitivity using,
 	         (no. of ties evolved in reciprocal relation)/(total 						no. of actual ties).
            
-           
+![dataset](https://user-images.githubusercontent.com/32256364/42993281-9d9c0b30-8c28-11e8-8339-db4456d12e8b.png)
+![network](https://user-images.githubusercontent.com/32256364/42993282-9ddcd214-8c28-11e8-8098-eccd0f1841f6.png)     
            
  ## Conclusion:
  
